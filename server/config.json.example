@@ -1,0 +1,16 @@
+{
+  "settings": {
+    "cert": "localhost",
+    "mongoDb": "mongodb://127.0.0.1:27017",
+    "mongoDbName": "meshcentral",
+    "port": 4433,
+    "redirPort": 4480,
+    "webRTC": true
+  },
+  "domains": {
+    "": {
+      "title": "MeshCentral CLT",
+      "newAccounts": true
+    }
+  }
+}
